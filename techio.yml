@@ -4,9 +4,33 @@ plan:
   statement: markdowns/01-welcome.md
 - title: Basics of Go
   statement: markdowns/02-basics-of-go.md
+- title: Quiz
+  statement: markdowns/03-quiz.md
+
 projects:
   go:
     root: /project
     runner:
       name: techio/golang-godep-runner
       version: 1.1.0-go-1.8
+
+
+
+# # The playground title.
+# # type: String
+# title: playground title
+
+# # Specify a cover for your playground.
+# # This is a small image (jpg/png) that will be displayed
+# # in the playground card. By default, you can also create
+# # a cover.jpg (or cover.png) at the root of your repository
+# cover: /path/to/an/image.jpg
+
+# # The root of the playground plan. The plan can either be composed of chapters
+# # or lessons.
+# # type: Ordered List of Chapter or Lesson
+# plan: See Chapter or Lesson
+
+# # The root element of the projects list.
+# # type: Ordered Map of Project
+# projects: See Projects section
