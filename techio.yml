@@ -1,7 +1,9 @@
-title: Go Project
+title: Go (Golang) Mastery - From zero to Hero
 plan:
 - title: Welcome
-  statement: markdowns/welcome.md
+  statement: markdowns/01-welcome.md
+- title: Basics of Go
+  statement: markdowns/02-basics-of-go.md
 projects:
   go:
     root: /project
