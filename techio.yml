@@ -6,6 +6,8 @@ plan:
   statement: markdowns/02-basics-of-go.md
 - title: Quiz
   statement: markdowns/03-quiz.md
+- title: Coding
+  statement: markdowns/04-conding.md
 
 projects:
   go:
