@@ -7,7 +7,7 @@ plan:
 - title: Quiz
   statement: markdowns/03-quiz.md
 - title: Coding
-  statement: markdowns/04-conding.md
+  statement: markdowns/04-coding.md
 
 projects:
   go:
